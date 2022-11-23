@@ -22,7 +22,7 @@
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
     "passport": "^0.4.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "sweetalert": "^2.1.2",
     "sweetalert2": "^8.18.4",
     "toastmejs": "^1.2.3",
